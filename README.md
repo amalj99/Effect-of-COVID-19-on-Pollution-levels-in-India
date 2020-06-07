@@ -1,6 +1,6 @@
 # Effect of COVID 19 on Pollution levels in India
 
-**PLEASE NOTE**
+**PLEASE NOTE**:
 Plotly graphs are rendered as static images only, as Github does not allow dynamic rendering.The complete notebook with interactive plotly graphs can be found at https://nbviewer.jupyter.org/github/amalj99/Effect-of-COVID-19-on-Pollution-levels-in-India/blob/master/Analysis-EDA.ipynb.
 
 ## Objective
