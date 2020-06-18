@@ -13,7 +13,7 @@ Our objective is to determine whether the lockdown that came into effect on 25th
 * Data: https://www.kaggle.com/rohanrao/air-quality-data-in-india
 
 ## Data Description
-The dataset conatins 26219 rows containing daily entries for 12 different pollutants for 24 cities. It also contains the AQI and AQI Bucket values for each entry.
+The dataset contains 26219 rows containing daily entries for 12 different pollutants for 24 cities. It also contains the AQI and AQI Bucket values for each entry.
 
 ## Observations
 ![](https://github.com/amalj99/Effect-of-COVID-19-on-Pollution-levels-in-India/blob/master/Images/PM2.5%20levels%20in%20cities.png)
