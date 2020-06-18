@@ -18,7 +18,7 @@ The dataset conatins 26219 rows containing daily entries for 12 different pollut
 ## Observations
 ![](https://github.com/amalj99/Effect-of-COVID-19-on-Pollution-levels-in-India/blob/master/PM2.5%20levels%20in%20cities.png)
 
-* The above plot shows the cities with the highest PM2.5 levels in the country.
+* The above plot shows the cities with the highest mean PM2.5 levels in the country.
 
 ![](https://github.com/amalj99/Effect-of-COVID-19-on-Pollution-levels-in-India/blob/master/AQI%20levels%20barplot.png)
 
