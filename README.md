@@ -15,6 +15,17 @@ Our objective is to determine whether the lockdown that came into effect on 25th
 ## Data Description
 The dataset conatins 26219 rows containing daily entries for 12 different pollutants for 24 cities. It also contains the AQI and AQI Bucket values for each entry.
 
+## Observations
+![](https://github.com/amalj99/Effect-of-COVID-19-on-Pollution-levels-in-India/blob/master/PM2.5%20levels%20in%20cities.png)
+
+* The above plot shows the cities with the highest PM2.5 levels in the country.
+
+![](https://github.com/amalj99/Effect-of-COVID-19-on-Pollution-levels-in-India/blob/master/AQI%20levels%20barplot.png)
+
+* This plot shows the daily AQI levels in various major cities from 1st January 2019 to 1st May 2020.
+* The black line represents the date when lockdown came into effect. 
+* We can see a visible decrease in AQI levels after this date when compared to the same time period in 2019.
+
 ## Conclusion
 * Using various visualization methods we can conclude that the overall pollution level in multiple cities across the country did decrease after the nationwide lockdown was enforced.
 * We also witnessed certain trends with respect to the time of year, which govern the overall pollution concentrations in the country.
