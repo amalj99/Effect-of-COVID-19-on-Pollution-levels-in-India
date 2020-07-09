@@ -1,7 +1,7 @@
 # Effect of COVID 19 on Pollution levels in India
 
 **PLEASE NOTE**:
-Plotly graphs are rendered as static images only, as Github does not allow dynamic rendering.The complete notebook with interactive plotly plots can be found at https://nbviewer.jupyter.org/github/amalj99/Effect-of-COVID-19-on-Pollution-levels-in-India/blob/master/Analysis-EDA.ipynb.
+Plotly graphs are rendered as static images only, as Github does not allow dynamic rendering.The complete notebook with interactive plotly plots can be found at https://www.kaggle.com/amalj99/effect-of-covid-19-on-pollution-in-india.
 
 ## Objective
 Our objective is to determine whether the lockdown that came into effect on 25th March, 2020 in India as a response to the COVID-19 pandemic, made a difference to the overall pollution levels in the country. We have access to a large database containing pollution data dating from 1st January 2015 to 1st May 2020.
