@@ -1,4 +1,5 @@
 # Effect of COVID 19 on Pollution levels in India
+![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.7](https://img.shields.io/badge/Python-3.7-brightgreen.svg)
 
 **PLEASE NOTE**:
 Plotly graphs are rendered as static images only, as Github does not allow dynamic rendering.The complete notebook with interactive plotly plots can be found at https://www.kaggle.com/amalj99/effect-of-covid-19-on-pollution-in-india.
